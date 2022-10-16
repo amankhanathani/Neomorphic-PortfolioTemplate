@@ -1,7 +1,7 @@
 
 # Neomorphic-PortfolioTemplate
 
-This is a OpenSource Portfolio Template Based on Neomorphic Theme Made with pure HTML, CSS(SCSS), And A bit of Java script
+This is an OpenSource Portfolio Template based on the Neomorphic Theme that was created using only HTML, CSS (SCSS), and a little Java script.
 
 # Live Preview
 
